@@ -1,3 +1,6 @@
 # GitHub Profile Finder using React.
 
-- Search for the username of a person and get the info about them.
+- Find a person on GitHub based on their GitHub username.
+
+  ## Live Link
+  - https://gh-profile-finder-one.vercel.app/
